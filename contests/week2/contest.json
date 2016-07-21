@@ -1,7 +1,8 @@
-[
-    [
+{
+    "start":755357,
+    "problems":[
 	[
-	    "Ones",
+	    "Twos",
 	    "https://uva.onlinejudge.org/external/101/10127.pdf",
 	    "uva",
 	    "10127"
@@ -16,15 +17,15 @@
 	    "Big Mod",
 	    "https://uva.onlinejudge.org/external/3/374.pdf",
 	    "uva",
-	    "374",
+	    "374"
 	],
 	[
 	    "Simply Emirp",
 	    "https://uva.onlinejudge.org/external/102/10235.pdf",
 	    "uva",
-	    "10235",
+	    "10235"
 	]
     ],
-    {},
-    {}
-]
+    "submissions":[],
+    "scores":{}
+}
